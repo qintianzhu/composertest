@@ -1,0 +1,22 @@
+{
+    "name": "angkee/laradmin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "qintianzhu",
+            "email": "qintz@12366.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Angkee\\Laradmin\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Angkee\\Laradmin\\Tests\\": "tests/"
+        }
+    },
+
+    "require": {}
+}
